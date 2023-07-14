@@ -4,7 +4,7 @@ import Titulo from "./components/Titulo";
 function App() {
   return (
     <div>
-      <Titulo />
+      <Titulo nuevoTitulo="Nuevo titulo" />
     </div>
   );
 }

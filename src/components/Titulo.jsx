@@ -1,7 +1,7 @@
-const Titulo = () => {
+const Titulo = ({ nuevoTitulo }) => {
   return (
     <article>
-      <h1>hello world</h1>
+      <h1>{nuevoTitulogi}</h1>
     </article>
   );
 };
